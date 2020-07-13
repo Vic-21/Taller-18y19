@@ -221,9 +221,8 @@ li a:hover {
 }
 
 
-address {
-  margin-top: 1em;
-  padding-top: 1em;
-  border-top: thin dotted;
-  font-family: 'Abel', sans-serif;
-color: whitesmoke}
+footer {
+  font-family: 'Poppins', sans-serif;
+color:rgb(14, 13, 13);
+font-size: 25px;
+}
